@@ -44,3 +44,8 @@ Shorts Summary é um projeto que utiliza a API da OpenAI para transcrição de �
 
 ### Integração
 - OpenAI API
+  
+Este projeto utiliza a OpenAI API para realizar as seguintes funcionalidades:
+
+1. Transcrição de áudio para texto.
+2. Geração de respostas personalizadas a partir de textos longos.
